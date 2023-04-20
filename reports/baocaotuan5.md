@@ -42,7 +42,8 @@
 
 ## Nguyễn Văn Thành
 ### Tuần trước làm gì
-
+-'Tìm hiểu về API tiktok
 ### Các vấn đề gặp phải
-
+-Chưa hiểu rõ nguyên nhân và hoạt động của API
 ### Dự định tuần này làm gì
+-Hoàn thành cơ bản giao diện Home Page
